@@ -12,6 +12,19 @@
     "french",
     "scraper"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/walidsa3d/cpasbien.git"
+  },
+  "bugs": {
+    "url": "https://github.com/walidsa3d/cpasbien/issues"
+  },
+  "bin": {
+    "fusker": "bin/cli"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
   "author": "Walid Saad",
   "license": "MIT"
 }
